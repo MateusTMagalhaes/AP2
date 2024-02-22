@@ -5,8 +5,8 @@
 int main(){
   printf("Mackenzie - FCI\n");
   printf("Algortitmo e");
-  printf("Programação\n");
+  printf("Programação II\n");
 
 
-  return 0
+  return 0;
 }
