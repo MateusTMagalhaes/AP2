@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 int main(){
-  printf("Mackenzie - FCI\n");
-  printf("Algortitmo e");
+  printf("Mackenzie - FCI (desde 1970)\n");
+  printf("Algortitmo e ");
   printf("Programação II\n");
 
 
